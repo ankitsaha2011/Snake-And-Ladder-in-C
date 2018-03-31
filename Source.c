@@ -89,5 +89,6 @@ int main()
 		j++;
 	}
 			printf("Player %d wins!!\n", flag+1);
+	
 	return 0;
 }
